@@ -5,7 +5,7 @@
 ## Demo
 [https://hst-sunday.github.io/react-motion-menu-button/](https://hst-sunday.github.io/react-motion-menu-button/)
 
-<img src="https://raw.githubusercontent.com/hst-Sunday/react-motion-menu-button/master/demoPic.png" width="400" height="600" />    
+<img src="https://raw.githubusercontent.com/hst-Sunday/react-motion-menu-button/master/demoPic.png" width="700" height="600" />    
 
 ## Development
 
@@ -68,7 +68,7 @@ ReactDOM.render(<App />, document.getElementById("root"));
 ## 组件Option   
 | 选项 | 描述 | 类型 | 默认值 |
 |-----|------|-----|-------|
-| mode | 子按钮飞出模式:`sur` `left` `right` `up` `down` `LT` `RT`6种模式 | String | `sur`| 
+| mode | 子按钮飞出模式:`sur` `left` `right` `up` `down` `LT` `RT`7种模式 | String | `sur`| 
 | isOpen | 按钮是否打开 | Bool | `false` |
 | buttonSize | 主按钮的大小`px` | Number | `60` |
 | backgroundColor | 主按钮的背景颜色 | color | `#eee`| 
