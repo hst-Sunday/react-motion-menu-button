@@ -1,0 +1,11 @@
+# .npmignore 
+.DS_Store
+webpack-compile.config.js
+node_modules
+assets
+src
+examples
+.babelrc
+.gitignore
+webpack.config.js
+package-lock.json
