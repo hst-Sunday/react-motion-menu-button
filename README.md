@@ -1,6 +1,11 @@
 # react-motion-menu-button  
 
-一个react的折叠按钮     
+一个react的折叠按钮   
+
+## Demo
+[https://hst-sunday.github.io/react-motion-menu-button/](https://hst-sunday.github.io/react-motion-menu-button/)
+
+<img src="https://raw.githubusercontent.com/hst-Sunday/react-motion-menu-button/master/demoPic.png" width="400" height="600" />    
 
 ## Development
 
